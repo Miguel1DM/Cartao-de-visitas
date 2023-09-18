@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;;
+}
+
+
+body{
+    justify-content: center;
+    width: 400px;
+    height: 800px;
+    background-color:beige;
+}
+#Frame1{
+    width: 400px;
+    height: 800px;
+    background-color: #CBCBCB;
+    position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    overflow: hidden;
+}
+
+#Topo img{
+
+    width: 400px;
+    height: 365px;
+
+}
+#Frame1 #Topo #ImagemLupa{
+    height: 24px;
+    width: 24px;
+    position: absolute;
+    position: absolute; top: 15%; left: 80%; transform: translate(-50%, -50%);;
+    filter: opacity(0.3);
+}
+input{
+    position: absolute; top: 15%; left: 50%; transform: translate(-50%, -50%);;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    border: none;
+    outline: none;
+    padding-left: 3%;
+}
+#Frame1 #Topo #Texto {
+    font-size: 36px;
+    text-align: left;
+    position: absolute;
+    padding-top: 60%;
+    margin-left: 3%;
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+
+}
+#Frame1 #Baixo {
+    position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%);;
+    width: 400px;
+    height: 167px;
+    background-color: #232323;
+}
+#Frame1 #Baixo #Texto1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    text-align: left;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#Frame1 #Baixo #Texto2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    text-align: left;
+    position: absolute;
+    color: white;
+    margin-left: 10%;
+    margin-top: 27%;
+    margin-left: 5%;
+}
+#Frame1 #Baixo #Texto3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    text-align: left;
+    position: absolute;
+    color: white;
+    margin-left: 10%;
+    margin-top: 13%;
+    margin-top: 15%;
+    margin-left: 5%;
+}
+#Frame1 #Baixo #Texto4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    text-align: left;
+    position: absolute;
+    color: white;
+    margin-left: 60%;
+    margin-top: 13%;
+    margin-top: 15%;
+}
+#Frame1 #Baixo #Texto5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    text-align: left;
+    position: absolute;
+    color: white;
+    margin-left: 60%;
+    margin-top: 27%;
+}
+#Frame1 #Meio{
+    display: flex;
+    gap: 15px;
+    z-index: -1;
+}
+#Frame1 #Meio img{
+    width: 144px;
+    height: 155px;
+    margin-left: 10%;
+    margin-top: 20%;
+    border-radius: 5%;
+}
+#Frame1 #Meio #Img2 #MiniPraia{
+    position: absolute;
+    height: 21.81px;
+    width: 20px;
+    margin-top: -2%;
+    margin-left: 33%;
+    z-index: 3;
+    filter: opacity(0.3);
+}
+#Frame1 #Meio #Img1 #MiniFloresta{
+    position: absolute;
+    height: 21.81px;
+    width: 20px;
+    margin-top: -2%;
+    margin-left: 33%;
+    z-index: 3;
+    filter: opacity(0.3);
+}
+#Frame1 #Meio #Img1 #Texto01{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    text-align: left;
+    position: absolute;
+    color: black;
+    margin-left: 3.6%;
+    text-transform: uppercase;
+    background-color: #FBFBFB;
+    margin-top: 3%;
+}
+#Frame1 #Meio #Img1 #CaixaDoTexto01{
+    position: absolute;
+    color: black;
+    margin-left: 3.6%;
+    margin-top: -3%;
+    background-color: #FBFBFB;
+    width: 144px;
+    height: 32px;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+}
+#Frame1 #Meio #Img2 #Texto02{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    text-align: left;
+    position: absolute;
+    color: black;
+    margin-left: 3.6%;
+    text-transform: uppercase;
+    background-color: #FBFBFB;
+    margin-top: 3%
+}
+#Frame1 #Meio #Img2 #CaixaDoTexto02{
+    position: absolute;
+    color: black;
+    margin-left: 3.6%;
+    margin-top: -3%;
+    background-color: #FBFBFB;
+    width: 144px;
+    height: 32px;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+}
+#Frame1 #Meio #Img3 #Texto03{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400px;
+    font-size: 13px;
+    text-align: left;
+    position: absolute;
+    color: black;
+    margin-left: 3.6%;
+    margin-top: -3%;
+    text-transform: uppercase;
+    width: 144px;
+    height: 32px;
+    box-shadow: #232323;
+    margin-top: 3%;
+}
+#Frame1 #Meio #Img3 #CaixaDoTexto03{
+    position: absolute;
+    color: black;
+    margin-left: 3.6%;
+    margin-top: -3%;
+    background-color: #FBFBFB;
+    width: 144px;
+    height: 32px;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+
