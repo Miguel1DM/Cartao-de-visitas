@@ -6,7 +6,7 @@
 
 <div id ="div1">
 
-aling = "left"
+align = "left"
 
 <br><img src="https://github.com/Miguel1DM/Cartao-de-visitas/blob/main/img/alfinete.png" width = "30px"/> página hospedada no página GitHub Pages [GitHUb Pages](https://miguel1dm.github.io/Folder/)
 
