@@ -5,7 +5,7 @@
 
 <br> <img src="https://github.com/Miguel1DM/Cartao-de-visitas/blob/main/img/alfinete.png" width = "30px"/>**página hospedada no GitHubPages** [GitHubPages](https://miguel1dm.github.io/Folder/)
 
-<br> <img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta%203-fotor-20231113114852.png" width = "30px"/> **Tecnologias**
+<br> <img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta11.png" width = "30px"/> **Tecnologias**
 
 **Ferramentas utilizadas**
 * HTML
