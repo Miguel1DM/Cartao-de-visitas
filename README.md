@@ -5,13 +5,16 @@
 <br><img src="https://github.com/Miguel1DM/Folder/blob/main/img/tela.png">
 
 <div id ="div1">
+
+aling = "left"
+
 <br><img src="https://github.com/Miguel1DM/Cartao-de-visitas/blob/main/img/alfinete.png" width = "30px"/> página hospedada no página GitHub Pages [GitHUb Pages](https://miguel1dm.github.io/Folder/)
 
 <img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramentas1.png" width = "50px"/> Ferramentas utilizadas
 
 </div>
 
-div1 aling ="left"
+
   
 
 
