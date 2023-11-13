@@ -14,6 +14,11 @@
 **Ambiente de desenvolvimento**
 * VSCODE
 
+<br><h3>Materiais de apoio</h3>
+* Para formatação do Readme em [Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+* [CSS](https://www.devmedia.com.br/guia/css/38149)
+* [HTML](https://www.devmedia.com.br/guia/html/38051)
+
 
 
 
