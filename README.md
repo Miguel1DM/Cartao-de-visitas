@@ -4,7 +4,7 @@
 
 <br><img src="https://github.com/Miguel1DM/Folder/blob/main/img/tela.png">
 
-<br><img src="https://github.com/Miguel1DM/Cartao-de-visitas/blob/main/img/alfinete.png" width = "30px"/> página hospedada no página GitHub Pages [GitHUb Pages](https://miguel1dm.github.io/Cartao-de-visitas/)
+<br><img src="https://github.com/Miguel1DM/Cartao-de-visitas/blob/main/img/alfinete.png" width = "30px"/> página hospedada no página GitHub Pages [GitHUb Pages](https://miguel1dm.github.io/Folder/)
 
 
 
