@@ -1,6 +1,6 @@
 <h1>Flyer</h1>
 
-<br><h3>Page made in Senai to learn how to create pages in Html and edit them using CSS.</h3>
+<br><h3>Página feita no Senai para aprender a criar páginas em HTML e editá-las usando CSS..</h3>
 
 <br><img src="https://github.com/Miguel1DM/Folder/blob/main/img/tela.png">
 
