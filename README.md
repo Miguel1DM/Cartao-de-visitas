@@ -8,6 +8,8 @@
 
 <br><img src="https://github.com/Miguel1DM/Folder/blob/main/img/ferramenta.png" width = "30px"/> Ferramentas utilizadas
 * HTML
+* CSS
+* VSCODE
 
 
 
