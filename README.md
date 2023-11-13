@@ -11,6 +11,10 @@
 
 </div>
 
+.div1{
+  aling ="left";
+  }
+
 
 
 
