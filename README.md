@@ -8,6 +8,7 @@
 <br> <h4>Ferramentas utilizadas</h4>
 * HTML
 * CSS
+<br>
 <h4>Ambiente de desenvolvimento</h4>
 * VSCODE
   
