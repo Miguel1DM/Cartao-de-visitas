@@ -11,9 +11,8 @@
 
 </div>
 
-div1{
-  aling ="left";
-  }
+div1 aling ="left"
+  
 
 
 
