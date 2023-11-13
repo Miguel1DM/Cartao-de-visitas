@@ -10,7 +10,6 @@
 <br> **Ferramentas utilizadas**
 * HTML
 * CSS
-
 <br> **Ambiente de desenvolvimento**
 * VSCODE
 
